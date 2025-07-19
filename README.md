@@ -1,2 +1,2 @@
 # AuthService
-.NET CORE Authentication Micro-Service for personal use
+Written in C# with ASP.NET CORE because Im reusing past C# code, Im NOT rewriting authentication again with GO
